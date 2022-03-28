@@ -1,31 +1,32 @@
-# FACEMESH: AI FACE LANDMARK DETECTION WEB INTERFACE
+## FACEMESH: AI FACE LANDMARK DETECTION WEB INTERFACE
 
-## 1. Create project
+### 1. Create project
 
-## 2. Install dependencies  
+### 2. Install dependencies  
 - Face Mesh - https://github.com/tensorflow/tfjs-models/tree/master/facemesh  
-`npm install @tensorflow-models/handpose @tensorflow/tfjs @tensorflow-models/facemesh react-webcam`
+`npm install @tensorflow/tfjs @tensorflow-models/facemesh react-webcam`
+`npm install @tensorflow-models/handpose @tensorflow-models/posenet --force`
 
 - start app using `npm run start`
 
-## 3. Import dependencies
+### 3. Import dependencies
 Import in app.js
 
-## 4. Set up webcam and canavas
+### 4. Set up webcam and canavas
 
-## 5. Define references to webcam and canvas
+### 5. Define references to webcam and canvas
 
-## 6. Load facemesh
+### 6. Load facemesh
 
-## 7. Detect function
+### 7. Detect function
 
-## 8. Drawing utilities
+### 8. Drawing utilities
 create file utilities.js
 
-## 9. Load triangulation
+### 9. Load triangulation
 
-## 10. Setup triangle path
+### 10. Setup triangle path
 
-## 11. 
+### 11. 
 
-## 12. 
+### 12. 
